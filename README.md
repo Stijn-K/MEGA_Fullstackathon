@@ -5,4 +5,4 @@ Welkom bij het project met de voorbeelden voor de MEGA Fullstackathon van 2025.
 - Overzicht RPi Zero pinouts: https://pinout.xyz/pinout/io_pi_zero
 - RPi docs over hoe GPIO aansturen via python: https://www.raspberrypi.com/documentation/computers/os.html#use-gpio-from-python
 - Documentatie gpiozero, simpele GPIO interface in python: https://gpiozero.readthedocs.io/en/latest/
-- inhoude sensorkits: https://www.instructables.com/Arduino-37-in-1-Sensors-Kit-Explained/
+- inhoud sensorkits: https://www.instructables.com/Arduino-37-in-1-Sensors-Kit-Explained/
